@@ -10,9 +10,6 @@
 [submodule "theme/hugo-creative-portfolio-theme"]
 	path = theme/hugo-creative-portfolio-theme
 	url = https://github.com/kishaningithub/hugo-creative-portfolio-theme.git
-[submodule "theme/saey55/hugo-elate-theme"]
-	path = theme/saey55/hugo-elate-theme
-	url = https://github.com/saey55/hugo-elate-theme
 [submodule "theme/hugo-hello-programmer"]
 	path = theme/hugo-hello-programmer
 	url = https://github.com/lubang/hugo-hello-programmer-theme
